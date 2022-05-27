@@ -1,0 +1,35 @@
+
+body{
+    margin: 0 0 0 0;
+}
+
+table{
+    width: 100vw;
+}
+
+table,th,td{
+    border:2px solid;
+    border-collapse:collapse;
+    border-color:rgb(104, 240, 255);
+}
+table{
+    width: 60vw;
+    height: 10vh;
+}
+
+
+th{
+    background-color: green;
+    color:aliceblue;
+    text-align: center;
+}
+
+td{
+    background-color: aquamarine;
+}
+
+
+.row{
+    background-color: greenyellow;
+}
+

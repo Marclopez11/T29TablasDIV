@@ -1,0 +1,154 @@
+body{
+    background-image: url(../fotos/ac.jpeg);
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+div{
+    border: 1px solid black;
+}
+
+.contenedor{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(4,1fr);
+}
+
+.mantel{
+    
+    background-image: url(../fotos/back_mantel.jpeg);
+    width: 200px;
+    height: 200px ;
+    margin-left: 50px;
+
+
+}
+
+.mantelpadding{
+    padding: 20px;
+
+    border: 2px solid black;
+    width: 200px;
+    height: 200px ;
+    margin-left: 50px;
+
+
+}
+.mantelpaddingsrc{
+    background-image: url(../fotos/back_mantel.jpeg);
+    width: 200px;
+    height: 180px ;
+
+}
+
+.mantelpadding img{
+
+    background-repeat: repeat;
+
+}
+
+.mantelpaddingnorepeat{
+   
+    margin-left: 50px;
+
+
+}
+.mantelpaddingnorepeatpadding{
+
+  
+    background-color: white;
+    padding: 20px;
+    margin-left: 50px;
+    margin-bottom: 35px;
+
+
+}
+.cara{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px ;
+    margin-left: 50px;
+
+}
+.carapadding{
+    background-color: white;
+    margin-top: 20px;
+    width: 100px;
+    height: 100px ;
+    margin-left: 50px;
+    padding: 30px;
+
+}
+
+.carapadding img{
+    width: 100px;
+    height: 100px ;
+
+}
+
+.mantelpaddingnorepeatpadding img{
+    width: 200px;
+    height: 200px ;
+
+}
+
+
+.caraalargda{
+    margin-top: 20px;
+
+    background-color: white;
+    width: 200px;
+    height: 200px ;
+    margin-left: 50px;
+
+}
+.caraalargda img{
+    margin-top: 40px;
+
+}
+.caraalargda2{
+    margin-top: 20px;
+
+    background-color: white;
+
+    width: 200px;
+    height: 200px ;
+    margin-left: 50px;
+
+    
+}
+
+.cuadrado1{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(235,235,235,1) 0%, rgba(109,230,121,1) 68%);
+    width: 200px;
+    height: 200px ;
+    margin-left: 50px;
+}
+
+.cuadrado2{
+    background: rgb(158,40,48);
+    background: linear-gradient(0deg, rgba(158,40,48,1) 28%, rgba(255,24,40,1) 51%, rgba(255,255,255,1) 100%);
+    width: 200px;
+    height: 200px ;
+    margin-left: 50px;
+}
+
+.cuadrado3{
+    background: rgb(45,179,147);
+    background: linear-gradient(0deg, rgba(45,179,147,1) 28%, rgba(90,217,114,1) 51%, rgba(255,255,255,1) 100%);
+    width: 200px;
+    height: 200px ;
+    margin-left: 50px;
+}
+
+.cuadrado4{
+    background: rgb(132,255,162);
+    background: linear-gradient(35deg, rgba(132,255,162,1) 4%, rgba(229,255,236,1) 23%, rgba(255,255,255,0) 94%, rgba(255,255,255,1) 100%);
+    width: 200px;
+    height: 200px ;
+    margin-left: 50px;
+}
+
+

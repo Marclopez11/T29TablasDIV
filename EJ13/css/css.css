@@ -1,0 +1,44 @@
+h4 {
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 2px solid;
+  border-collapse: collapse;
+  border-color: rgb(0, 0, 0);
+  text-align: center;
+}
+table {
+  width: 100%;
+  height: 10vh;
+}
+
+th {
+  background-color: green;
+  color: aliceblue;
+  text-align: center;
+}
+
+td {
+  font-weight: 900;
+}
+
+.ctxt {
+  color: red;
+}
+.bgcian {
+  background-color: rgb(106, 255, 250);
+  text-align: left;
+}
+
+.bglila {
+  background-color: rgb(231, 36, 238);
+  text-align: end;
+  padding-top: 20px;
+}
+
+.row {
+  background-color: greenyellow;
+}
