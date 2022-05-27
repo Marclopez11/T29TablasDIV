@@ -1,24 +1,24 @@
 # T29TablasDIV
 
-## [Ej1](https://marclopez11.github.io/UD28HTML_CSS/EJ1/ej01.html)
+## [Ej11](https://marclopez11.github.io/T29TablasDIV/EJ11/)
 
-## [Ej2](https://marclopez11.github.io/UD28HTML_CSS/EJ2/ej02.html)
+## [Ej12](https://marclopez11.github.io/T29TablasDIV/EJ12/)
 
-## [Ej3](https://marclopez11.github.io/UD28HTML_CSS/EJ3/platosemana.html)
+## [Ej13](https://marclopez11.github.io/T29TablasDIV/EJ13/)
 
-## [Ej4](https://marclopez11.github.io/UD28HTML_CSS/EJ4/platosemana.html)
+## [Ej14](https://marclopez11.github.io/T29TablasDIV/EJ14/)
 
-## [Ej5](https://marclopez11.github.io/UD28HTML_CSS/EJ5/postresemana.html)
+## [Ej15](https://marclopez11.github.io/T29TablasDIV/EJ15/)
 
-## [Ej6](https://marclopez11.github.io/UD28HTML_CSS/EJ6/)
+## [Ej16](https://marclopez11.github.io/T29TablasDIV/EJ16/)
 
-## [Ej7](https://marclopez11.github.io/UD28HTML_CSS/EJ7/)
+## [Ej17](https://marclopez11.github.io/T29TablasDIV/EJ17/)
 
-## [Ej8](https://marclopez11.github.io/UD28HTML_CSS/Ej8/)
+## [Ej18](https://marclopez11.github.io/T29TablasDIV/EJ18/)
 
-## [Ej9](https://marclopez11.github.io/UD28HTML_CSS/EJ9/)
+## [Ej19](https://marclopez11.github.io/T29TablasDIV/EJ19/)
 
-## [Ej10](https://marclopez11.github.io/UD28HTML_CSS/EJ10/)
+## [Ej20](https://marclopez11.github.io/T29TablasDIV/EJ20/)
 
 
 
